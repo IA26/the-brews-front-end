@@ -11,7 +11,11 @@ function App() {
         <h2>Here is a selection of alcohol</h2>
 
 
-
+        <ul> 
+          <li> Beer  </li> 
+          <li> Alcohol  </li> 
+          <li> Wine </li> 
+        </ul>
        
       </header>
     </div>
